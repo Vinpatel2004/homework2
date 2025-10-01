@@ -1,6 +1,6 @@
 Full Name: Vin Patel
 Email: vin_patel@student.uml.edu
-Web Address: 
+Web Address: https://vinpatel2004.github.io/homework2/
 Class: GUI Programming 1
 Date: 10/01/2025
 
